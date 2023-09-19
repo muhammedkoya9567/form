@@ -1,0 +1,26 @@
+body{
+    background-image: url('w1.jpg');
+    background-size: cover;
+}
+table th{
+    color: black;
+    font-size:x-large;
+    font-style: italic;
+}
+table td{
+    color:brown;
+    font-size: large;
+    font-style: normal;
+    font-weight: 800;
+
+}
+#edit{
+    color: blue;
+    font-size: large;
+    font-style: normal;
+
+}
+#delete{
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+}
